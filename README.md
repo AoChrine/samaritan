@@ -1,0 +1,2 @@
+# samaritan
+hackucsc2016
